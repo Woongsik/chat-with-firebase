@@ -1,0 +1,25 @@
+.form-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: center;
+}
+
+.title {
+    text-align: center;
+}
+
+.submitButton {
+    width: 100% !important;
+    padding: 10px !important;
+}
+
+.no-account-container {
+    color: gray;
+    display: flex;
+    justify-content: center;
+}
+
+.error-text {
+    color: red;
+}
