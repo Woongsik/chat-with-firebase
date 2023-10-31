@@ -1,4 +1,4 @@
-# Chat with React & Firebase realtime dabase
+# Chat with React & Firebase realtime database
 
 This project was made by react & firebase (auth, realtime database, storage)
 You can chat with instant messages on the fly, thanks to realtime database in firebase.
